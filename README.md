@@ -60,7 +60,7 @@ All apps live in `tmay_chatbot/app/` and are launched through the Makefile.
 ### Chatbot
 
 `make chatbot` opens the conversation on the left and the chunks retrieved for the last answer, with their
-sources, on the right (personal content blurred in this screenshot).
+sources, on the right.
 
 ![Chatbot app](docs/images/chatbot.png)
 
